@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Cambios Variables.c">
+   </FileRef>
+   <FileRef
+      location = "group:Temperaturas.c">
+   </FileRef>
+   <FileRef
+      location = "group:Promedios Alumnos.c">
+   </FileRef>
+   <FileRef
+      location = "group:Tabla Cuadrados.c">
+   </FileRef>
+   <FileRef
+      location = "group:Temperaturas2.c">
+   </FileRef>
+   <FileRef
+      location = "group:Letras y Cantidad.c">
+   </FileRef>
+   <FileRef
+      location = "group:Palabras x Linea.c">
+   </FileRef>
+   <FileRef
+      location = "group:Palindromo.c">
+   </FileRef>
+   <FileRef
+      location = "group:Cambiar orden.c">
+   </FileRef>
+   <FileRef
+      location = "group:eliminar palabra.c">
+   </FileRef>
+   <FileRef
+      location = "group:Mayuscula Minuscula.c">
+   </FileRef>
+   <FileRef
+      location = "group:MayusculaS2.c">
+   </FileRef>
+   <FileRef
+      location = "group:fecha siguiente.c">
+   </FileRef>
+   <FileRef
+      location = "group:fecha diferencia.c">
+   </FileRef>
+   <FileRef
+      location = "group:Listado Alumnos.c">
+   </FileRef>
+   <FileRef
+      location = "group:Alumnos buscar y borrar.c">
+   </FileRef>
+   <FileRef
+      location = "group:strlen_strcpy_strcat.c">
+   </FileRef>
+   <FileRef
+      location = "group:Lista alumnos con struct.c">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/AndresMoguel 1/Desktop/UIA/4to Semestre UIA/Programacio&#x301;n Aplicada/Ejercicios/Archivos1.c">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/AndresMoguel 1/Desktop/UIA/4to Semestre UIA/Programacio&#x301;n Aplicada/Ejercicios/Alumnos con Archivos texto.c">
+   </FileRef>
+   <FileRef
+      location = "group:Temperaturas con archivos.c">
+   </FileRef>
+   <FileRef
+      location = "group:Alumnos Arch Binarios.c">
+   </FileRef>
+   <FileRef
+      location = "group:Argumentos de Programa.c">
+   </FileRef>
+   <FileRef
+      location = "group:Calculadora con Argumentos.c">
+   </FileRef>
+   <FileRef
+      location = "group:Memoria dinamica numeros.c">
+   </FileRef>
+   <FileRef
+      location = "group:memoria dinamica arreglo bi.c">
+   </FileRef>
+   <FileRef
+      location = "group:alumnos dinamica.c">
+   </FileRef>
+   <FileRef
+      location = "group:alumnos binario dinamica.c">
+   </FileRef>
+   <FileRef
+      location = "group:lista dinamica.c">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea Lista con inserta medio.c">
+   </FileRef>
+   <FileRef
+      location = "group:pilas push y pop.c">
+   </FileRef>
+   <FileRef
+      location = "group:Practica1.c">
+   </FileRef>
+   <FileRef
+      location = "group:Pract 1 vers 2.c">
+   </FileRef>
+   <FileRef
+      location = "group:lista doble prog1.c">
+   </FileRef>
+   <FileRef
+      location = "group:Recursion Frase.c">
+   </FileRef>
+   <FileRef
+      location = "group:Arbol no Recursivo.c">
+   </FileRef>
+   <FileRef
+      location = "group:Arbol no recursivo strings.c">
+   </FileRef>
+   <FileRef
+      location = "group:arbol recursivo.c">
+   </FileRef>
+   <FileRef
+      location = "group:Arboles con cuentas.c">
+   </FileRef>
+   <FileRef
+      location = "group:Arboles Carreras.c">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/AndresMoguel 1/Desktop/UIA/4to Semestre UIA/Programacio&#x301;n Aplicada/Ejercicios/Metodos Orden Directo.c">
+   </FileRef>
+   <FileRef
+      location = "group:Sel Sort Strings.c">
+   </FileRef>
+   <FileRef
+      location = "group:Quick SOrt.c">
+   </FileRef>
+   <FileRef
+      location = "group:Heap Sort.c">
+   </FileRef>
+   <FileRef
+      location = "group:EFE.c">
+   </FileRef>
+   <FileRef
+      location = "group:Gtk calculadora.c">
+   </FileRef>
+   <FileRef
+      location = "group:Gtk botones.c">
+   </FileRef>
+   <FileRef
+      location = "group:Gtk botones 2.c">
+   </FileRef>
+   <FileRef
+      location = "group:Compilador GTK.c">
+   </FileRef>
+   <FileRef
+      location = "group:Registro Clientes.c">
+   </FileRef>
+   <FileRef
+      location = "group:Modificar clientes.c">
+   </FileRef>
+   <FileRef
+      location = "group:Registro Dogs.c">
+   </FileRef>
+   <FileRef
+      location = "group:registros y lectura.c">
+   </FileRef>
+</Workspace>
